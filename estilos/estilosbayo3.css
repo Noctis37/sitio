@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #690000;
+    color: #fff;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+img {
+    display: block;
+    margin: 0 auto; /* Esto centra la imagen */
+    border-radius: 20px;
+}
+
+nav {
+    text-align: right;
+    margin-top: 10px;
+}
+
+nav a {
+    color: #fff;
+    padding: 5px 10px; /* para decorar el link */
+    margin-left: 10px;
+}
+
+main {
+    padding: 20px; /* Para que se vea despegado de los bordes */
+}
+
+h2 {
+    color: #333;
+}
+
+footer {
+    background-color: #690000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    bottom: 0;
+    width: 100%;
+}
