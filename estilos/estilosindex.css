@@ -37,3 +37,19 @@ footer {
     width: 100%;
 }
 
+/* Para estilos de la tabla */
+
+/* Estilos para las celdas de arriba */
+th {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Para los datos */
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+
